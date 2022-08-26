@@ -17,3 +17,5 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+ <br><br><br>
+![](https://komarev.com/ghpvc/?username=1TzFaLL&color=258fcd)
